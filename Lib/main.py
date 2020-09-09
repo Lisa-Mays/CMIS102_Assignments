@@ -1,6 +1,6 @@
 # This program will calculate the cost to carpet a room
 # given the height and width of the room
-# and the choice of carpet grade
+# and the choice of carpet grades
 
 # Set price per square foot for 3 grades of carpets
 carpet_good = 1.25
