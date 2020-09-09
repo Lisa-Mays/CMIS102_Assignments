@@ -2,7 +2,7 @@
 # given the height and width of the room
 # and the choice of carpet grades
 
-# Set price per square foot for 3 grades of carpets
+# Set price per square foot for 3 grades of carpet
 carpet_good = 1.25
 carpet_better = 2.75
 carpet_best = 3.95
